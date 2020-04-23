@@ -29,6 +29,7 @@ const Home = () => (
           href="https://github.com/zeit/next.js/tree/master/examples"
           className="card"
         >
+          <h2>This is my change</h2>
           <h3>Examples &rarr;</h3>
           <p>Discover and deploy boilerplate example Next.js projects.</p>
         </a>
